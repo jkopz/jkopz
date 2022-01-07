@@ -4,7 +4,7 @@
 
 ## About me:
 
-- 👨‍💻 I'm 23 years and from Germany
+- 👨‍💻 I'm 23 years old and from Germany
 - 🎓 Part-time studying Business Informatics
 - 💻 Interested in everything that has to do with Data Science
 - 🧠 I’m currently deepening my knowlege in ML & NLP
