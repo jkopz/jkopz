@@ -17,6 +17,8 @@
 
 **⠀Twitter** [<img align="left" alt="jkopz | Twitter" width="26px" src="https://upload.wikimedia.org/wikipedia/de/thumb/9/9f/Twitter_bird_logo_2012.svg/2000px-Twitter_bird_logo_2012.svg.png">](https://twitter.com/jk0pz)
 
+**⠀Kaggle** [<img align="left" alt="jkopz | Twitter" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png">](https://www.kaggle.com/jkopz1)
+
 <br />
 
 ## Languages and Tools:
