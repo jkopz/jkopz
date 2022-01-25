@@ -1,6 +1,5 @@
 ## Hi there, I'm Julian 👋
-### 🙌 Welcome to my GitHub!
-<br />
+![GitHubBanner2](https://user-images.githubusercontent.com/81187442/151041033-f2cd74aa-5f1f-4fb9-81d2-dac79e65084b.png)
 
 ## About me:
 
