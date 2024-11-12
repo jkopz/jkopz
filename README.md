@@ -3,11 +3,10 @@
 
 ## About me:
 
-- 👨‍💻 I'm a 24 years old Junior Data Scientist from Germany
-- 🎓 Part-time studying Business Informatics
-- 💻 Interested in everything that has to do with Data Science
-- 🧠 I’m currently deepening my knowlege in ML & NLP
-- 🥅 2022 GitHub Goal: Contribute more to Open Source projects
+- 👨‍💻 I'm a 26 years old Data Scientist from Germany
+- 🎓 Studying Data Science (M.Sc.)
+- 💻 Interested in everything that has to do with data
+- 🧠 I’m currently deepening my knowlege in Gen AI
 
 <br />
 
