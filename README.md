@@ -3,7 +3,7 @@
 
 ## About me:
 
-- 👨‍💻 I'm a 26 years old Data Scientist from Germany
+- 👨‍💻 I'm a 27 years old Data Scientist from Germany
 - 🎓 Studying Data Science (M.Sc.)
 - 💻 Interested in everything that has to do with data
 - 🧠 I’m currently deepening my knowlege in Gen AI
